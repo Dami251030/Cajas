@@ -1,0 +1,61 @@
+body{
+			color:yellow;
+			}
+	
+	h1{
+		color:black;
+		text-align: center;
+		 font-style: italic;
+	}
+	div{
+		width:200px;
+		height:100px;
+		padding:30px;
+		text-align: center;
+		border-radius:60px;
+	}
+		
+			
+		#cajagrey{
+			background-color: #808080;
+			clear:both;
+			width:97%;
+			}
+		#cajanavy{
+			color: yellow;
+			background-color: #00786d;
+			float: right;
+			clear: both;
+			}	
+		#cajamybluesupreme{
+			background-color: #000278;
+			float: left;
+			img{
+				width: 50% ;
+				height: 60% ;
+				float: right;
+				}
+			}
+		#cajauntitled{
+			background-color: #760000;
+			float: right;
+			clear:both;
+			img{
+				width: 60% ;
+				height: 50% ;
+				}
+			}
+		#cajabarricade{
+			background-color: #5b9a61;
+			float: left;
+			img{
+				width: 60% ;
+				height: 50% ;
+				}
+			}
+		
+		#cajanegra{
+			background-color: black;
+			clear:both;
+			width:97%;
+			}
